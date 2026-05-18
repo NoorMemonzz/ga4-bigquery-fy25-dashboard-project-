@@ -108,7 +108,7 @@ Trcks: Growth: new vs active users
 Engagement: time spent per user
 ```
 
-##3. Demographic Aggregation 
+## 3. Demographic Aggregation 
 ```
 CREATE OR REPLACE TABLE `steam-key-492615-c7.ga4.demo` AS
 
@@ -122,7 +122,7 @@ FROM `steam-key-492615-c7.ga4.demographics`
 GROUP BY country;
 ````
 
-##4. New User Retention (Cohort Analysis) --> Calculates retention rates over time
+## 4. New User Retention (Cohort Analysis) --> Calculates retention rates over time
 
 ```
 -- Retention for New User Cohorts
