@@ -1,4 +1,5 @@
 # ga4-bigquery-fy25-dashboard-project-
+Access link: https://datastudio.google.com/reporting/de1cfba3-2e18-455b-9daa-2005ea11eef9
 
 # GA4 BigQuery Dashboard Project
 
